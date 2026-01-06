@@ -1,0 +1,15 @@
+{
+  "name": "Richard Hanrick",
+  "title": "Web Developer",
+  "avatar": "/images/avatar.png",
+  "cv_url": "/cv/richard-hanrick-cv.pdf",
+  "email": "richard@example.com",
+  "phone": "+1 (213) 352-2795",
+  "birthday": "1982-06-23",
+  "location": "Sacramento, California, USA",
+  "social_links": [
+    { "platform": "facebook", "url": "https://facebook.com" },
+    { "platform": "twitter", "url": "https://twitter.com" },
+    { "platform": "instagram", "url": "https://instagram.com" }
+  ]
+}
